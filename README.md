@@ -3,6 +3,5 @@
 * Group 7
 
 * Use libGDX
-* We make code in dir ./core
-* We make assets in dir ./core/assets
-* If possible, Please use Git Emoji when commit.
+* We make code in /core/src/com/mygdx/game
+* We make assets in /core/assets
